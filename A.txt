@@ -1,3 +1,2 @@
 this is A
 edited A
-feature 1 with bug fix 
